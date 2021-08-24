@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Pedro Picapiedra",
+        "username": "ppiedra",
+        "email": "ppiedra@picapiedras.com",
+        "status": true
+    },
+    {
+        "id": 2,
+        "name": "Pablo Marmol",
+        "username": "pmarmol",
+        "email": "pmarmol@picapiedras.com",
+        "status": true
+    },
+    {
+        "id": 3,
+        "name": "Betty Marmol",
+        "username": "bmarmol",
+        "email": "bmarmol@picapiedras.com",
+        "status": true
+    },
+    {
+        "id": 4,
+        "name": "Vilma Picapiedra",
+        "username": "vpicapiedra",
+        "email": "vpicapiedra@picapiedras.com",
+        "status": true
+    }
+]
